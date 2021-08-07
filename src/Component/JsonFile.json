@@ -1,0 +1,212 @@
+[
+  {
+    "_index": "products",
+    "_type": "_doc",
+    "_id": "UleiFXsBcvyWsu-aJ-qi",
+    "_score": 6.954374,
+    "_source": {
+      "source": "https://www.homedepot.com/",
+      "category": "Appliances, Dryers,Electric Dryers",
+      "image_url": [
+        "https://images.thdstatic.com/productImages/5835e509-2855-454d-be42-b81f696ac9d1/svn/white-hotpoint-electric-dryers-htx24easkws-64_400.jpg",
+        "https://images.thdstatic.com/productImages/c2b22b5a-779d-433f-b519-bb90b9d5147b/svn/white-hotpoint-electric-dryers-htx24easkws-e4_400.jpg"
+      ],
+      "name": "6.2 cu. ft. 240-Volt White Electric Vented Dryer",
+      "product_url": "https://www.homedepot.com/p/Hotpoint-6-2-cu-ft-240-Volt-White-Electric-Vented-Dryer-HTX24EASKWS/207188948",
+      "number_of_reviews": "(2553)",
+      "stars": "89.76200000000001%",
+      "manufacturer": "Hotpoint",
+      "supplier": null,
+      "description": null
+    }
+  },
+  {
+    "_index": "products",
+    "_type": "_doc",
+    "_id": "YVeiFXsBcvyWsu-aJ-r2",
+    "_score": 6.954374,
+    "_source": {
+      "source": "https://www.homedepot.com/",
+      "category": "Appliances, Dryers,Electric Dryers",
+      "image_url": [
+        "https://images.thdstatic.com/productImages/c5d3ec07-8c05-403a-9573-29fa5bbbaa91/svn/white-lg-electronics-electric-dryers-dle7300we-64_400.jpg",
+        "https://images.thdstatic.com/productImages/1a8014cf-ea43-475a-b5f8-25c2a35cd6ad/svn/white-lg-electronics-electric-dryers-dle7300we-e4_400.jpg"
+      ],
+      "name": "7.3 cu. ft. Ultra Large White Smart Electric Vented Dryer with EasyLoad Door & Sensor Dry, ENERGY STAR",
+      "product_url": "https://www.homedepot.com/p/LG-Electronics-7-3-cu-ft-Ultra-Large-White-Smart-Electric-Vented-Dryer-with-EasyLoad-Door-Sensor-Dry-ENERGY-STAR-DLE7300WE/308716328",
+      "number_of_reviews": "(1845)",
+      "stars": "90.612%",
+      "manufacturer": "LG Electronics",
+      "supplier": null,
+      "description": null
+    }
+  },
+  {
+    "_index": "products",
+    "_type": "_doc",
+    "_id": "SVeiFXsBcvyWsu-aJ-px",
+    "_score": 6.648304,
+    "_source": {
+      "source": "https://www.homedepot.com/",
+      "category": "Appliances, Dryers,Electric Dryers",
+      "image_url": [
+        "https://images.thdstatic.com/productImages/3f8f7527-3bac-4df8-a1d8-03c8a5f3a5b2/svn/white-lg-electronics-electric-dryers-dle7100w-64_400.jpg",
+        "https://images.thdstatic.com/productImages/41b5f7e3-6f6a-407a-9f41-6e0968d302de/svn/white-lg-electronics-electric-dryers-dle7100w-e4_400.jpg"
+      ],
+      "name": "7.3 cu. ft. Ultra Large High-Efficiency White Electric Vented Dryer with Sensor Dry & Reversible Door, ENERGY STAR",
+      "product_url": "https://www.homedepot.com/p/LG-Electronics-7-3-cu-ft-Ultra-Large-High-Efficiency-White-Electric-Vented-Dryer-with-Sensor-Dry-Reversible-Door-ENERGY-STAR-DLE7100W/304171304",
+      "number_of_reviews": "(1901)",
+      "stars": "89.48%",
+      "manufacturer": "LG Electronics",
+      "supplier": null,
+      "description": null
+    }
+  },
+  {
+    "_index": "products",
+    "_type": "_doc",
+    "_id": "QFeiFXsBcvyWsu-aJ-pD",
+    "_score": 6.5549293,
+    "_source": {
+      "source": "https://www.homedepot.com/",
+      "category": "Appliances, Dryers,Electric Dryers",
+      "image_url": [
+        "https://images.thdstatic.com/productImages/1baef950-927c-4c80-bf60-f26967c55986/svn/white-ge-electric-dryers-gtd42easjww-64_400.jpg",
+        "https://images.thdstatic.com/productImages/cb0d96b7-40a1-494c-8f9c-88cb25f5c845/svn/white-ge-electric-dryers-gtd42easjww-e4_400.jpg"
+      ],
+      "name": "7.2 cu. ft. 240-Volt White Electric Vented Dryer",
+      "product_url": "https://www.homedepot.com/p/GE-7-2-cu-ft-240-Volt-White-Electric-Vented-Dryer-GTD42EASJWW/206355459",
+      "number_of_reviews": "(8188)",
+      "stars": "91.77799999999999%",
+      "manufacturer": "GE",
+      "supplier": null,
+      "description": null
+    }
+  },
+  {
+    "_index": "products",
+    "_type": "_doc",
+    "_id": "RVeiFXsBcvyWsu-aJ-pc",
+    "_score": 6.5549293,
+    "_source": {
+      "source": "https://www.homedepot.com/",
+      "category": "Appliances, Dryers,Electric Dryers",
+      "image_url": [
+        "https://images.thdstatic.com/productImages/5d815177-e9d9-4ad2-bf14-acb6ce975461/svn/white-whirlpool-electric-dryers-wed4950hw-64_400.jpg",
+        "https://images.thdstatic.com/productImages/550f298e-f0ee-460b-b367-9ba286fd5306/svn/white-whirlpool-electric-dryers-wed4950hw-e4_400.jpg"
+      ],
+      "name": "7.0 cu. ft. 240-Volt White Electric Vented Dryer with AUTODRY Drying System",
+      "product_url": "https://www.homedepot.com/p/Whirlpool-7-0-cu-ft-240-Volt-White-Electric-Vented-Dryer-with-AUTODRY-Drying-System-WED4950HW/304753183",
+      "number_of_reviews": "(2472)",
+      "stars": "90.048%",
+      "manufacturer": "Whirlpool",
+      "supplier": null,
+      "description": null
+    }
+  },
+  {
+    "_index": "products",
+    "_type": "_doc",
+    "_id": "XleiFXsBcvyWsu-aJ-rk",
+    "_score": 6.4091,
+    "_source": {
+      "source": "https://www.homedepot.com/",
+      "category": "Appliances, Dryers,Electric Dryers",
+      "image_url": [
+        "https://images.thdstatic.com/productImages/5c45ae62-6b96-4383-9ca0-7b955d983527/svn/white-ge-electric-dryers-gtd33easkww-64_400.jpg",
+        "https://images.thdstatic.com/productImages/5456836f-8389-415b-b7ae-ebab2b95fc89/svn/white-ge-electric-dryers-gtd33easkww-e4_400.jpg"
+      ],
+      "name": "7.2 cu. ft. 240 Volt White Electric Vented Dryer",
+      "product_url": "https://www.homedepot.com/p/GE-7-2-cu-ft-240-Volt-White-Electric-Vented-Dryer-GTD33EASKWW/206824723",
+      "number_of_reviews": "(8908)",
+      "stars": "89.084%",
+      "manufacturer": "GE",
+      "supplier": null,
+      "description": null
+    }
+  },
+  {
+    "_index": "products",
+    "_type": "_doc",
+    "_id": "OleiFXsBcvyWsu-aJ-oi",
+    "_score": 6.3505173,
+    "_source": {
+      "source": "https://www.homedepot.com/",
+      "category": "Appliances, Dryers,Electric Dryers",
+      "image_url": [
+        "https://images.thdstatic.com/productImages/8ea44c85-e6c2-4069-8900-27102a6a6313/svn/graphite-steel-lg-electronics-electric-dryers-dle3600v-64_400.jpg",
+        "https://images.thdstatic.com/productImages/4706f12d-4254-4572-964c-a0c42af7df06/svn/graphite-steel-lg-electronics-electric-dryers-dle3600v-e4_400.jpg"
+      ],
+      "name": "7.4 cu. ft. Ultra Large Graphite Steel Smart Electric Vented Dryer with Sensor Dry & Wi-Fi Enabled",
+      "product_url": "https://www.homedepot.com/p/LG-Electronics-7-4-cu-ft-Ultra-Large-Graphite-Steel-Smart-Electric-Vented-Dryer-with-Sensor-Dry-Wi-Fi-Enabled-DLE3600V/312441398",
+      "number_of_reviews": "(365)",
+      "stars": "90.958%",
+      "manufacturer": "LG Electronics",
+      "supplier": null,
+      "description": null
+    }
+  },
+  {
+    "_index": "products",
+    "_type": "_doc",
+    "_id": "QVeiFXsBcvyWsu-aJ-pH",
+    "_score": 6.3505173,
+    "_source": {
+      "source": "https://www.homedepot.com/",
+      "category": "Appliances, Dryers,Electric Dryers",
+      "image_url": [
+        "https://images.thdstatic.com/productImages/aa861349-336c-4308-9e28-05947feb698e/svn/brushed-black-samsung-electric-dryers-dve50r5200v-64_400.jpg",
+        "https://images.thdstatic.com/productImages/c80a7ed2-6696-4358-842b-a2663f83536d/svn/brushed-black-samsung-electric-dryers-dve50r5200v-e4_400.jpg"
+      ],
+      "name": "7.4 cu. ft. Brushed Black Electric Dryer with Sensor Dry",
+      "product_url": "https://www.homedepot.com/p/Samsung-7-4-cu-ft-Brushed-Black-Electric-Dryer-with-Sensor-Dry-DVE50R5200V/315959907",
+      "number_of_reviews": "(181)",
+      "stars": "95.138%",
+      "manufacturer": "Samsung",
+      "supplier": null,
+      "description": null
+    }
+  },
+  {
+    "_index": "products",
+    "_type": "_doc",
+    "_id": "RleiFXsBcvyWsu-aJ-ph",
+    "_score": 6.3505173,
+    "_source": {
+      "source": "https://www.homedepot.com/",
+      "category": "Appliances, Dryers,Electric Dryers",
+      "image_url": [
+        "https://images.thdstatic.com/productImages/d62d4c85-e0a7-43ae-84ad-228830ca215a/svn/white-lg-electronics-electric-dryers-dlex4000w-64_400.jpg",
+        "https://images.thdstatic.com/productImages/e68d10ec-fe8d-4952-904e-633f18edeed3/svn/white-lg-electronics-electric-dryers-dlex4000w-e4_400.jpg"
+      ],
+      "name": "7.4 cu. ft. White Ultra Large Capacity Electric Dryer with Sensor Dry, Turbo Steam",
+      "product_url": "https://www.homedepot.com/p/LG-Electronics-7-4-cu-ft-White-Ultra-Large-Capacity-Electric-Dryer-with-Sensor-Dry-Turbo-Steam-DLEX4000W/312440282",
+      "number_of_reviews": "(425)",
+      "stars": "92.894%",
+      "manufacturer": "LG Electronics",
+      "supplier": null,
+      "description": null
+    }
+  },
+  {
+    "_index": "products",
+    "_type": "_doc",
+    "_id": "TleiFXsBcvyWsu-aJ-qL",
+    "_score": 6.3505173,
+    "_source": {
+      "source": "https://www.homedepot.com/",
+      "category": "Appliances, Dryers,Electric Dryers",
+      "image_url": [
+        "https://images.thdstatic.com/productImages/82139587-e820-484d-8668-dd7f081d7e6b/svn/white-lg-electronics-electric-dryers-dle3400w-64_400.jpg",
+        "https://images.thdstatic.com/productImages/309cc0ce-bf69-42bc-92bd-089993dba866/svn/white-lg-electronics-electric-dryers-dle3400w-e4_400.jpg"
+      ],
+      "name": "7.4 cu. ft. Smart White Electric Vented Dryer with Sensor Dry",
+      "product_url": "https://www.homedepot.com/p/LG-Electronics-7-4-cu-ft-Smart-White-Electric-Vented-Dryer-with-Sensor-Dry-DLE3400W/312429301",
+      "number_of_reviews": "(1148)",
+      "stars": "90.76599999999999%",
+      "manufacturer": "LG Electronics",
+      "supplier": null,
+      "description": null
+    }
+  }
+]
